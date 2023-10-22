@@ -1,5 +1,6 @@
-# Rebound_Release
-INSTRUCTIONS
+# Rebound
+
+## Instructions
 
 If the file does not run, you may need to install the following:
 
@@ -8,3 +9,12 @@ If the file does not run, you may need to install the following:
 
  >  the DirectX June 2010 runtime (if audio is not working)
       - https://www.microsoft.com/en-us/download/details.aspx?id=8109
+
+## Credits
+
+ciple-x-ciple
+Kutakazi
+
+## License
+
+[GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
