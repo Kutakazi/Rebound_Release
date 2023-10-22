@@ -10,7 +10,7 @@ If the file does not run, you may need to install the following:
  >  the DirectX June 2010 runtime (if audio is not working)
       - https://www.microsoft.com/en-us/download/details.aspx?id=8109
 
-## Credits
+## Authors
 
 ciple-x-ciple
 Kutakazi
