@@ -1,8 +1,6 @@
 # Rebound_Release
-
-﻿====================================================================
 INSTRUCTIONS
-====================================================================
+
 If the file does not run, you may need to install the following:
 
  >  .NET 6.0 runtime or later (if the executable does not run)
